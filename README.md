@@ -1,5 +1,7 @@
 A simple word guessing game impplemented in python.
+
 Guess_game.py contains python code, words.txt contains words for game.
+
 Allows the user to play the given hand, as follows:
 
 1. The hand is displayed.
