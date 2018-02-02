@@ -1,4 +1,4 @@
-A simple word guessing game impplemented in python.
+A simple word guessing game implemented in python.
 
 Guess_game.py contains python code, words.txt contains words for game.
 
